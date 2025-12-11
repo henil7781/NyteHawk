@@ -39,7 +39,7 @@ It helps users explore nearby services such as ATMs, pharmacies, and food outlet
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Krish-zinzuvadiya/Nytehawk.git
+git clone[ (https://github.com/henil7781/NyteHawk.com)]
 ```
 
 ### 2. Navigate to the Project Directory
